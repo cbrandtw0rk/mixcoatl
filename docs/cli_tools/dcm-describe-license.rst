@@ -18,6 +18,7 @@ Syntax
 ~~~~~~
 
 .. program-output:: dcm-describe-license -h
+      :shell:
 
 
 .. program-output:: echo $PATH

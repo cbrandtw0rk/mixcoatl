@@ -21,7 +21,9 @@ Syntax
       :shell:
 
 
-.. program-output:: source ../../bin/activate ../bin/dcm-describe-license -h
+source then run
+
+.. program-output:: source ../../../envs/test-docs/bin/activate; dcm-describe-license -h
       :shell:
 
 PATH

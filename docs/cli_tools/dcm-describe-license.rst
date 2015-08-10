@@ -23,4 +23,13 @@ Syntax
 
 .. program-output:: echo $PATH
       :shell:
-      
+
+
+.. program-output:: pwd
+      :shell:
+
+
+
+.. program-output:: ls
+      :shell:
+

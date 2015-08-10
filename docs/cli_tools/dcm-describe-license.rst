@@ -21,7 +21,7 @@ Syntax
       :shell:
 
 
-.. program-output:: ../bin/dcm-describe-license -h
+.. program-output:: source ../../bin/activate ../bin/dcm-describe-license -h
       :shell:
 
 PATH
@@ -45,6 +45,12 @@ ls ..
 
 
 .. program-output:: ls ..
+      :shell:
+
+find ../../..
+
+
+.. program-output:: find ../../.. -name dcm-describe-license
       :shell:
 
 which python

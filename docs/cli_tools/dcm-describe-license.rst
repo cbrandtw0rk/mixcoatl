@@ -20,16 +20,30 @@ Syntax
 .. program-output:: dcm-describe-license -h
       :shell:
 
+PATH
 
 .. program-output:: echo $PATH
       :shell:
 
 
+pwd
+
 .. program-output:: pwd
       :shell:
 
 
+ls
 
 .. program-output:: ls
       :shell:
 
+ls ..
+
+
+.. program-output:: ls ..
+      :shell:
+
+which python
+
+.. program-output:: which python
+      :shell:

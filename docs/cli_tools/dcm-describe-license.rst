@@ -20,6 +20,10 @@ Syntax
 .. program-output:: dcm-describe-license -h
       :shell:
 
+
+.. program-output:: ../bin/dcm-describe-license -h
+      :shell:
+
 PATH
 
 .. program-output:: echo $PATH
